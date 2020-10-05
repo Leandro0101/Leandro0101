@@ -27,8 +27,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝘂𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <span>NodeJS</span><br><br><br>
+        <img height="64px" src="https://camo.githubusercontent.com/d22732800f9fc6bfcb5ef3dd44c07aea2cdeacd3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f6e6f64656a732e706e67">
       </td>
     </tr>
     <tr valign="top">
