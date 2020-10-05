@@ -9,7 +9,9 @@
 - Manter o aprendizado de forma constante e atualizada
 - Dar o máximo de contribuição para a área
 
-<h3> Estudando no momento </h3>
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png
+
+<h3> Conhecimentos / estudando </h3>
 
 [<img src="https://user-images.githubusercontent.com/51785898/91357843-411b3900-e7c8-11ea-8161-3e8191a6cde2.png" width="70">](https://vlang.io/)
 
