@@ -36,11 +36,11 @@
 
 <td align="center" width="20%">
 <span><b><center>NodeJS</center></b></span> 
-<img height=65px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> 
+<img height=65px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>ReactJS</center></b></span> 
+<span><b><center>MongoDB</center></b></span> 
 <img height=65px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"> 
 </td>
 
