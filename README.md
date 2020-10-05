@@ -19,7 +19,7 @@
         <img height="64px" src="https://camo.githubusercontent.com/ee363327b86af563b7405e1dbcbd95ecb0b1c965/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176612f6a6176612d617232312e737667">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <span>Javascript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
@@ -37,8 +37,8 @@
         <img height="64px" src="https://camo.githubusercontent.com/890587422b274f5b65e8ce6a595f6fa007500dca/68747470733a2f2f7777772e6c6f676f6c796e782e636f6d2f696d616765732f6c6f676f6c796e782f64352f64353062383333323466623466626162313463646661663437343039313135622e6a706567">
       </td>
            <td width="25%" align="center">
-        <span>TypeScript</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png">
+        <span>Typescript</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
       </td>
     </tr>
 
