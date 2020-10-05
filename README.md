@@ -36,6 +36,10 @@
         <span>MongoDB</span><br><br><br>
         <img height="64px" src="https://camo.githubusercontent.com/890587422b274f5b65e8ce6a595f6fa007500dca/68747470733a2f2f7777772e6c6f676f6c796e782e636f6d2f696d616765732f6c6f676f6c796e782f64352f64353062383333323466623466626162313463646661663437343039313135622e6a706567">
       </td>
+           <td width="25%" align="center">
+        <span>MongoDB</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png">
+      </td>
     </tr>
 
   </tbody>
