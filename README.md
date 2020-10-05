@@ -16,7 +16,7 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>Java</center></b></span> 
-<img height=100px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> 
+<img height=140px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> 
 </td>
   
 <td align="center" width="20%">
