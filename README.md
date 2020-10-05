@@ -11,6 +11,6 @@
 
 <h3> Estudando no momento </h3>
 
-[<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png" alt="v logo" width="24">](https://vlang.io/)
+[<img src="https://user-images.githubusercontent.com/51785898/91357843-411b3900-e7c8-11ea-8161-3e8191a6cde2.png" alt="v logo" width="24">](https://vlang.io/)
 
 ![Dipto Leandro Lima Github Stats](https://github-readme-stats.vercel.app/api?username=leandro0101&show_icons=true_color=fff&icon_color=79ff97&text_color=fff&bg_color=151515)
