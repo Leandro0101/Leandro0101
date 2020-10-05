@@ -31,7 +31,7 @@
 <img height=65px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img height=80px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
 </td>
 
