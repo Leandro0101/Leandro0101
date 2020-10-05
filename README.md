@@ -11,6 +11,6 @@
 
 <h3> Estudando no momento </h3>
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |
+| [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png" alt="v logo" width="24">](https://vlang.io/)  |
 
 ![Dipto Leandro Lima Github Stats](https://github-readme-stats.vercel.app/api?username=leandro0101&show_icons=true_color=fff&icon_color=79ff97&text_color=fff&bg_color=151515)
