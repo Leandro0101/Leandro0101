@@ -15,17 +15,15 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>Java</center></b></span> 
 <img height=140px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> 
 </td>
   
 <td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
 <img height=65px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>TypeScript</center></b></span> 
+
 <img height=65px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> 
 </td>
 
