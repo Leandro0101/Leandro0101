@@ -18,18 +18,7 @@
 <span><b><center>Java</center></b></span> 
 <img height=60px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> 
 </td>
-
-<td align="center" width="20%">
-<span><b><center>MySQL</center></b></span> 
-<img height=60px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Java</center></b></span> 
-<img height=60px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> 
-</td>
-</tr>
-
+  
 <tr>
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
@@ -49,8 +38,8 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
+<span><b><center>ReactJS</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
 </td>
 
 <td align="center" width="20%">
