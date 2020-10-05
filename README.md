@@ -45,7 +45,7 @@
   </tbody>
 </table>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro0101&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Lans" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro0101&langs_count=10&theme=tokyonight&layout=compact"/></p>
 
 
 
