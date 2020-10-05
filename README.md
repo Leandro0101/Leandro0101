@@ -1,8 +1,8 @@
 <h1 align="center"> Opa, olá!👋 </h1>
-<h3 align="center"> Me chamo Leandro Vieira Lima! </h3>
+<h3> Me chamo Leandro Vieira Lima! </h3>
 <p> Tenho 18 anos, estou cursando Técnico em Informática e sou um estudante de programação.
  Iniciei meus estudos nessa área aos 15 anos e venho procurando aprimorar-me cada vez mais, com ênfase em Desenvolvimento Web</p>
-<h1 align="center"> Principais metas </h1>
+<h1> Principais metas </h1>
 
 - Tornar-me um desenvolvedor FullStack
 - Ser uma referência para as futuras gerações
