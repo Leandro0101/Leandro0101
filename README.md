@@ -5,7 +5,8 @@
 <h1 align="center"> Principais metas </h1>
 
 - Tornar-me um desenvolvedor FullStack
-- Tornar-me um profissional de referência para as futuras gerações
-- Manter o aprendizado de forma constante e atualizada. 
+- Ser uma referência para as futuras gerações
+- Manter o aprendizado de forma constante e atualizada
+- Dar ao máximo de contribuição para a área
 
 ![Dipto Leandro Lima Github Stats](https://github-readme-stats.vercel.app/api?username=leandro0101&show_icons=true_color=fff&icon_color=79ff97&text_color=fff&bg_color=151515)
