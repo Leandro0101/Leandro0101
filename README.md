@@ -29,7 +29,7 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>ReactJS</span><br><br><br>
+        <span>ReactJs</span><br><br><br>
         <img height="64px" src="https://camo.githubusercontent.com/0f6fc25bdc2d142cab7b3e1b723bea5bdc6ca0c9/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d332f3630302f52656163742e6a735f6c6f676f2d3531322e706e67">
       </td>
       <td width="25%" align="center">
