@@ -40,11 +40,4 @@
   </tbody>
 </table>
 
-
-
-
-<p><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro0101&langs_count=10&theme=tokyonight&layout=compact"/></p>
-</p>
-
-
 ![Dipto Leandro Lima Github Stats](https://github-readme-stats.vercel.app/api?username=leandro0101&show_icons=true_color=fff&icon_color=79ff97&text_color=fff&bg_color=151515)
