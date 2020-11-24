@@ -43,7 +43,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro0101&layout=compact&theme=radical" alt="My Github Stats">
+<p><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro0101&langs_count=10&theme=tokyonight&layout=compact"/></p>
 </p>
 
 
