@@ -4,7 +4,7 @@
  Iniciei meus estudos nessa área aos 15 anos e venho procurando aprimorar-me cada vez mais, com ênfase em Desenvolvimento Web</p>
 <h3> Principais metas </h3>
 
-- Tornar-me um desenvolvedor FullStack
+- Tornar-me um especialista Backend
 - Ser uma referência para as futuras gerações
 - Manter o aprendizado de forma constante e atualizada
 - Dar o máximo de contribuição para a área
